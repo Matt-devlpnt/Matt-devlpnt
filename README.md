@@ -1,3 +1,3 @@
-<a href="https://github.com/Matt-devlpnt">
+<a href="center">
 	<img src="assets/banner.jpg" alt="Bannière de profil" width="100%">
 </a>
