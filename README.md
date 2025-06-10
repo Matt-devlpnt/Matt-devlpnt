@@ -1,3 +1,3 @@
 <p align="center">
-	<img src="assets/banner.png" alt="Bannière de profil" width="80%">
+	<img src="assets/banner.jpg" alt="Bannière de profil" width="80%">
 </p>
