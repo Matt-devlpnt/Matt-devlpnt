@@ -3,6 +3,6 @@
 <p>I'm currently a student at 42 nice.</p>
 <br/>
 <h2>My skills :rocket:</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="./assets/c.svg" />
 <br/>
 <h2>My projects :bookmark_tabs:</h2>
