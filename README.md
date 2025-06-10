@@ -3,6 +3,6 @@
 <p>I'm currently a student at 42 nice.</p>
 <br/>
 <h2>My skills :rocket:</h2>
-![Bannière de profil](./assets/c.svg)
+<img src="./assets/c.svg" alt="Typing SVG"/>
 <br/>
 <h2>My projects :bookmark_tabs:</h2>
