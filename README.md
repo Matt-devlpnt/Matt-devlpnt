@@ -1,1 +1,1 @@
-![Bannière de profil](assets/banner.jpg)
+![Bannière de profil](assets/banner1.jpg)
