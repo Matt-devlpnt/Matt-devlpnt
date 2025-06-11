@@ -4,7 +4,7 @@
 <br/>
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
-<p align="center">
+<p style="background-color:red" align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C icone" title="C" width="auto" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ icone" title="C++" width="auto" height="40"/>
 	<img src="./assets/bash_logo.svg" alt="Bash icone" title="Bash" width="auto" height="40"/>
