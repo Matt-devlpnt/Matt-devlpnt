@@ -14,8 +14,12 @@
 		</div>
 	</span>
 	<span>
-		<img src="./assets/cpp.svg" alt="C++ icone" title="C++" width="auto" height="40"/>
-		<figcaption>C++</figcaption>
+		<div>
+			<img src="./assets/cpp.svg" alt="C++ icone" title="C++" width="auto" height="40"/>
+		</div>
+		<div>
+			<figcaption>C++</figcaption>
+		</div>
 	</span>
 	<img src="./assets/bash_logo.svg" alt="Bash icone" title="Bash" width="auto" height="40"/>
 	<img src="./assets/html5.svg" alt="HTML5 icone" title="HTML5" width="auto" height="40"/>
