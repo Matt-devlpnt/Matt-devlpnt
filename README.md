@@ -20,7 +20,7 @@
 <p align="center">
 	<img src="./assets/nginx_logo.svg" alt="Nginx icone" title="Nginx" width="auto" height="40"/>
 </p>
-<h3 align="center">Data and Streaming</h3>
+<h3 align="center">Data & Streaming</h3>
 <p align="center">
 	<img src="./assets/postgresql.svg" alt="PostgreSQL icone" title="PostgreSQL" width="auto" height="40"/>
 	<img src="./assets/debezium_logo.svg" alt="Debezium icone" title="Debezium" width="auto" height="40"/>
@@ -29,6 +29,7 @@
 <h3 align="center">Security</h3>
 <p align="center">
 	<img src="./assets/vault_logo.svg" alt="Vault icone" title="Vault" width="auto" height="40"/>
+	<img src="./assets/modsecurity.svg" alt="Modsecurity icone" title="Modsecurity" width="auto" height="40"/>
 </p>
 <h3 align="center">Architecture</h3>
 <p align="center">
