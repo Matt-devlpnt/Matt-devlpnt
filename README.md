@@ -5,14 +5,18 @@
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
 <div align="center">
-	<figure>
-		<img src="./assets/c.svg" alt="C icone" title="C" width="auto" height="40"/>
-		<figcaption>C</figcaption>
-	</figure>
-	<figure>
+	<span>
+		<div>
+			<img src="./assets/c.svg" alt="C icone" title="C" width="auto" height="40"/>
+		</div>
+		<div>
+			<figcaption>C</figcaption>
+		</div>
+	</span>
+	<span>
 		<img src="./assets/cpp.svg" alt="C++ icone" title="C++" width="auto" height="40"/>
 		<figcaption>C++</figcaption>
-	</figure>
+	</span>
 	<img src="./assets/bash_logo.svg" alt="Bash icone" title="Bash" width="auto" height="40"/>
 	<img src="./assets/html5.svg" alt="HTML5 icone" title="HTML5" width="auto" height="40"/>
 	<img src="./assets/css3.svg" alt="CSS3 icone" title="CSS3" width="auto" height="40"/>
