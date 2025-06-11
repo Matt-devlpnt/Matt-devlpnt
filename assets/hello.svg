@@ -16,6 +16,7 @@
 					font-family: "Righteous";
 					font-weight: 400;
 					font-style: normal;
+					color: white;
 				}
 			</style>
 			<text x="10" y="50" class="righteous-regular" font-size="20">Hello World :smiley:</text>
