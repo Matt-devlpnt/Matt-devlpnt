@@ -29,7 +29,7 @@
 <h3 align="center">Security</h3>
 <p align="center">
 	<img src="./assets/vault_logo.svg" alt="Vault icone" title="Vault" width="auto" height="40"/>
-	<img src="./assets/modsecurity.svg" alt="Modsecurity icone" title="Modsecurity" width="auto" height="40"/>
+	<img src="./assets/modsecurity_logo.svg" alt="Modsecurity icone" title="Modsecurity" width="auto" height="40"/>
 </p>
 <h3 align="center">Architecture</h3>
 <p align="center">
