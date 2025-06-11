@@ -11,7 +11,7 @@
 					font-style: normal;
 				}
 			</style>
-			<h1 class="righteous-regular">Hello World :smiley:</h1>
+			<text class="righteous-regular">Hello World :smiley:</text>
 		</div>
 	</foreignObject>
 </svg>
