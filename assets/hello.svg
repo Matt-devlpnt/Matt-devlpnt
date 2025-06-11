@@ -6,12 +6,12 @@
 			<style>
 				@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 				.righteous-regular {
-					font-family: "Righteous", sans-serif;
+					font-family: "Righteous";
 					font-weight: 400;
 					font-style: normal;
 				}
 			</style>
-			<text class="righteous-regular">Hello World :smiley:</text>
+			<text x="10" y="50" class="righteous-regular" font-size="20">Hello World :smiley:</text>
 		</div>
 	</foreignObject>
 </svg>
