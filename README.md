@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">DevOps</h3>
 <p align="center">
-	<img src="./assets/docker_logo.svg" alt="Docker icone" title="Docker" width="60" height="auto"/>
+	<img src="./assets/docker_logo.svg" alt="Docker icone" title="Docker" width="70" height="auto"/>
 	<img src="./assets/virtualbox_logo.svg" alt="Virtualbox icone" title="Virtualbox" width="40" height="40"/>
 </p>
 <h3 align="center">Data and Streaming</h3>
