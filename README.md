@@ -2,15 +2,17 @@
 <h1>Hello World :smiley:</h1>
 <p>I'm currently a student at 42 nice.</p>
 <br/>
+<img src="./assets/hello.svg" alt="Hello World :smiley:"/>
+<br/>
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
-<div style="background-color:red" align="center">
+<p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C icone" title="C" width="auto" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ icone" title="C++" width="auto" height="40"/>
 	<img src="./assets/bash_logo.svg" alt="Bash icone" title="Bash" width="auto" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 icone" title="HTML5" width="auto" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 icone" title="CSS3" width="auto" height="40"/>
-</div>
+</p>
 <h3 align="center">DevOps</h3>
 <p align="center">
 	<img src="./assets/docker_logo.svg" alt="Docker icone" title="Docker" width="auto" height="40"/>
