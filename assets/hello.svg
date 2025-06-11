@@ -17,5 +17,5 @@
 			fill: white;
 		}
 	</style>
-	<h1 class="righteous-regular">Hello World 😀</h1>
+	<text class="righteous-regular">Hello World</text>
 </svg>
