@@ -7,13 +7,13 @@
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C icone" title="C" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ icone" title="C++" width="40" height="40"/>
-	<img src="./assets/bash.svg" alt="Bash icone" title="Bash" width="40" height="40"/>
+	<img src="./assets/bash_logo.svg" alt="Bash icone" title="Bash" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 icone" title="HTML5" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 icone" title="CSS3" width="40" height="40"/>
 </p>
 <h3 align="center">DevOps</h3>
 <p align="center">
-	<img src="./assets/docker.svg" alt="Docker icone" title="Docker" width="40" height="40"/>
+	<img src="./assets/docker_logo.svg" alt="Docker icone" title="Docker" width="60" height="60"/>
 	<img src="./assets/virtualbox_logo.svg" alt="Virtualbox icone" title="Virtualbox" width="40" height="40"/>
 </p>
 <h3 align="center">Data and Streaming</h3>
