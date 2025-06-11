@@ -14,6 +14,8 @@
 <h3 align="center">Data and Streaming</h3>
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL icone" title="PostgreSQL" width="40" height="40"/>
+	<img src="./assets/debezium_logo.svg" alt="Debezium icone" title="Debezium" width="40" height="40"/>
+	<img src="./assets/redpanda_logo.svg" alt="Redpanda icone" title="Redpanda" width="40" height="40"/>
 </p>
 <br/>
 <h2>My projects :bookmark_tabs:</h2>
