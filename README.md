@@ -4,7 +4,7 @@
 <hr/>
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
-<p align="center">
+<div align="center">
 	<figure>
 		<img src="./assets/c.svg" alt="C icone" title="C" width="auto" height="40"/>
 		<figcaption>C</figcaption>
@@ -13,7 +13,7 @@
 	<img src="./assets/bash_logo.svg" alt="Bash icone" title="Bash" width="auto" height="40"/>
 	<img src="./assets/html5.svg" alt="HTML5 icone" title="HTML5" width="auto" height="40"/>
 	<img src="./assets/css3.svg" alt="CSS3 icone" title="CSS3" width="auto" height="40"/>
-</p>
+</div>
 <h3 align="center">DevOps</h3>
 <p align="center">
 	<img src="./assets/docker_logo.svg" alt="Docker icone" title="Docker" width="auto" height="40"/>
