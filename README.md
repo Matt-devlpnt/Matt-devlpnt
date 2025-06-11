@@ -1,6 +1,7 @@
 ![Bannière de profil](./assets/banner.jpg)
 <h1>Hello World :smiley:</h1>
-<h4>I'm currently a student at 42 nice.</h4>
+<p>I'm currently a student at 42 nice.</p>
+<hr/>
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -29,5 +30,5 @@
 <p align="center">
 	<img src="./assets/microservices.svg" alt="Microservices icone" title="Microservices" width="auto" height="40"/>
 </p>
-<br/>
+<hr/>
 <h2>My projects :bookmark_tabs:</h2>
