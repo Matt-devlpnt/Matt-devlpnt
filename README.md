@@ -2,9 +2,10 @@
 <h1>Hello World :smiley:</h1>
 <p>I'm currently a student at 42 nice.</p>
 <br/>
-<p>
-	<img src="./assets/hello.svg" alt="Hello World"/> :smiley:
-</p>
+<div>
+	<img src="./assets/hello.svg" alt="Hello World"/>
+	<p> :smiley:</p>
+</div>
 <br/>
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
