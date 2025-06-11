@@ -1,6 +1,6 @@
 ![Bannière de profil](./assets/banner.jpg)
 <h1>Hello World :smiley:</h1>
-<p>I'm currently a student at 42 nice.</p>
+<h4>I'm currently a student at 42 nice.</h4>
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
