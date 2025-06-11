@@ -17,5 +17,5 @@
 			fill: white;
 		}
 	</style>
-	<text x="0" y="0" class="righteous-regular" font-size="80">Hello World</text>
+	<text x="50" y="50" class="righteous-regular" font-size="80">Hello World</text>
 </svg>
