@@ -16,6 +16,10 @@
 	<img src="./assets/docker_logo.svg" alt="Docker icone" title="Docker" width="70" height="auto"/>
 	<img src="./assets/virtualbox_logo.svg" alt="Virtualbox icone" title="Virtualbox" width="40" height="40"/>
 </p>
+<h3 align="center">Server & reverse proxy</h3>
+<p align="center">
+	<img src="./assets/nginx_logo.svg" alt="Nginx icone" title="Nginx" width="auto" height="40"/>
+</p>
 <h3 align="center">Data and Streaming</h3>
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL icone" title="PostgreSQL" width="40" height="40"/>
