@@ -2,7 +2,7 @@
 <h1>Hello World :smiley:</h1>
 <p>I'm currently a student at 42 nice.</p>
 <h2>My skills :rocket:</h2>
-<span>
+<span width="50">
 	<h3 align="center">Languages</h3>
 	<p align="center">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C icone" title="C" width="auto" height="40"/>
