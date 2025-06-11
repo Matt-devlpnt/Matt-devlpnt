@@ -5,7 +5,10 @@
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
-	<img src="./assets/c.svg" alt="C icone" title="C" width="auto" height="40"/>
+	<figure>
+		<img src="./assets/c.svg" alt="C icone" title="C" width="auto" height="40"/>
+		<figcaption>C</figcaption>
+	</figure>
 	<img src="./assets/cpp.svg" alt="C++ icone" title="C++" width="auto" height="40"/>
 	<img src="./assets/bash_logo.svg" alt="Bash icone" title="Bash" width="auto" height="40"/>
 	<img src="./assets/html5.svg" alt="HTML5 icone" title="HTML5" width="auto" height="40"/>
