@@ -4,7 +4,6 @@
 <br/>
 <div>
 	<img src="./assets/hello.svg" alt="Hello World"/>
-	<p> :smiley:</p>
 </div>
 <br/>
 <h2>My skills :rocket:</h2>
