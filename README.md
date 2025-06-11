@@ -22,7 +22,7 @@
 </p>
 <h3 align="center">Data and Streaming</h3>
 <p align="center">
-	<img src="./assets/postgresql.svg" alt="PostgreSQL icone" title="PostgreSQL" width="40" height="40"/>
+	<img src="./assets/postgresql.svg" alt="PostgreSQL icone" title="PostgreSQL" width="auto" height="40"/>
 	<img src="./assets/debezium_logo.svg" alt="Debezium icone" title="Debezium" width="auto" height="40"/>
 	<img src="./assets/redpanda_logo.svg" alt="Redpanda icone" title="Redpanda" width="auto" height="40"/>
 </p>
