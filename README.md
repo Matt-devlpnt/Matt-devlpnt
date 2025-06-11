@@ -26,5 +26,9 @@
 	<img src="./assets/debezium_logo.svg" alt="Debezium icone" title="Debezium" width="auto" height="40"/>
 	<img src="./assets/redpanda_logo.svg" alt="Redpanda icone" title="Redpanda" width="auto" height="40"/>
 </p>
+<h3 align="center">Architecture</h3>
+<p align="center">
+	<img src="./assets/microservices.svg" alt="Microservices icone" title="Microservices" width="auto" height="40"/>
+</p>
 <br/>
 <h2>My projects :bookmark_tabs:</h2>
