@@ -18,7 +18,7 @@
 </p>
 <h3 align="center">Server & reverse proxy</h3>
 <p align="center">
-	<img src="./assets/nginx_logo.svg" alt="Nginx icone" title="Nginx" width="auto" height="40"/>
+	<img src="./assets/nginx_logo.svg" alt="Nginx icone" title="Nginx" width="70" height="auto"/>
 </p>
 <h3 align="center">Data and Streaming</h3>
 <p align="center">
