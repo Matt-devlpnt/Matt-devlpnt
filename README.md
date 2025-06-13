@@ -56,4 +56,7 @@
 	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
 	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
 	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
+	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
+	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
+	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
 </p>
