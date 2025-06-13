@@ -44,7 +44,7 @@
 	<img src="./assets/windows_logo.svg" alt="Windows icone" title="Windows" width="auto" height="40"/>
 </p>
 <h3 align="center">Tools</h3>
-<p>
+<p align="center">
 	<img src="./assets/git_logo.svg" alt="Git icone" title="Git" width="auto" height="40"/>
 	<img src="./assets/vim_logo.svg" alt="Vim icone" title="Vim" width="auto" height="40"/>
 	<img src="./assets/json_logo.svg" alt="Json icone" title="Json" width="auto" height="40"/>
@@ -52,7 +52,7 @@
 </p>
 <hr/>
 <h2>My projects :bookmark_tabs:</h2>
-<p align="center">
+<p>
 	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
 	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
 	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
