@@ -52,3 +52,6 @@
 </p>
 <hr/>
 <h2>My projects :bookmark_tabs:</h2>
+<p align="center">
+	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="40"/>
+</p>
