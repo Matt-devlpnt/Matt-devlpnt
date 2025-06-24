@@ -47,3 +47,8 @@
 	<img src="./assets/json_logo.svg" alt="Json icone" title="Json" width="auto" height="40"/>
 	<img src="./assets/vscode_logo.svg" alt="VSCode icone" title="VSCode" width="auto" height="40"/>
 </p>
+<h3 align="center">Design</h3>
+<p align="center">
+	<img src="./assets/affinity_designer_logo.svg" alt="Affinity designer icone" title="Affinity designer" width="auto" height="40"/>
+	<img src="./assets/affinity_photo_logo.svg" alt="Affinity photo icone" title="Affinity photo" width="auto" height="40"/>
+</p>
