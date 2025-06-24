@@ -1,7 +1,4 @@
 ![Bannière de profil](./assets/banner.jpg)
-<h1>Hello World :smiley:</h1>
-<p>Student architect in digital technology at 42 school, passionate about innovation and the design of digital solutions.</p>
-<hr/>
 <h2>My skills :rocket:</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -49,9 +46,4 @@
 	<img src="./assets/vim_logo.svg" alt="Vim icone" title="Vim" width="auto" height="40"/>
 	<img src="./assets/json_logo.svg" alt="Json icone" title="Json" width="auto" height="40"/>
 	<img src="./assets/vscode_logo.svg" alt="VSCode icone" title="VSCode" width="auto" height="40"/>
-</p>
-<hr/>
-<h2>My projects :bookmark_tabs:</h2>
-<p align="center">
-	<img src="./assets/LIBFT.svg" alt="LIBFT" title="LIBFT" width="auto" height="200"/>
 </p>
